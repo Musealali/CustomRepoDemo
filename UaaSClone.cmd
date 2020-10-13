@@ -1,0 +1,1 @@
+git clone https://dev-cloud-maa-umbraco-dk.scm.s1.umbraco.io/59697ac8-f415-447a-b3dc-fa00ce43577e.git MyCloudSite.Web
